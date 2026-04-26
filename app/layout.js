@@ -37,7 +37,10 @@ export default function RootLayout({ children }) {
 
             <footer className="bg-muted/50 py-12">
               <div className="container mx-auto px-4 text-center text-gray-200">
-                
+                <p>© 2026 MediCare Appointment System</p>
+                <p>
+                  Book appointments easily and securely with verified doctors.
+                </p>
               </div>
             </footer>
           </ThemeProvider>
